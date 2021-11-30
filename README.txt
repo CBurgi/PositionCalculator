@@ -1,5 +1,5 @@
 # PositionCalculator
-PositionCalculator code for ENGG11400
+PositionCalculator code for ENGG1410
 
 Calculates the closest user to any given user based off a text file containing any number of other users.
 
